@@ -19,5 +19,4 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/Flutter_Firebase_register_and_login_App
-/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/Flutter_Firebase_register_and_login_App/count.svg" alt ="Loading">
